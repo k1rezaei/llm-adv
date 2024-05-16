@@ -277,11 +277,17 @@ if __name__ == '__main__':
     path_file = f'scenario0/{methods[method_id]}_dep{args.dependent}.json'
     
     runs = []
-    all_metrics = []
     
+    try:
+        with open(path_file, 'r') as f:
+            all_metrics = json.loads(f.read())
+    except:
+        all_metrics = []
+    
+    print(f'already run {len(all_metrics)} times')
     print(f'sanity: dependent: {dependent}')
 
-    for N in tqdm(range(num_of_repeat)):
+    for N in tqdm(range(num_of_repeat - len(all_metrics))):
         if method_id == 0:
             metric, y = single_allocation_with_replacement(prompt=prompt, advertisers=advertisers, ads=ads, bids=np.copy(bids), num_of_segments=3, dependent=dependent)
             all_metrics.append(metric)
@@ -299,6 +305,9 @@ if __name__ == '__main__':
             with open(path_file, 'w') as f:
                 f.write(json.dumps(all_metrics, indent=4))
     
+    
+    
+    for metric in all_metrics:
         sw = np.sum(metric[SOCIAL_WELFARE])
         revenue = np.sum(metric[REVENUE])
         relevence = np.sum(metric[RELEVANCE])
@@ -309,4 +318,5 @@ if __name__ == '__main__':
     vals = [[float(f'{np.mean(runs[:, j]):.3f}') for j in range(3)]]
     print(f'Social Welfare: {np.mean(runs[:, 0]):.3f}\nRevenue: {np.mean(runs[:, 1]):.3f}\nRelevence: {np.mean(runs[:, 2]):.3f}')
 
-
+    with open(path_file, 'w') as f:
+        f.write(json.dumps(all_metrics, indent=4))
