@@ -1,0 +1,1082 @@
+[
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.5272294637126065,
+            1.3653959111435858,
+            0.13074093583224852
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "At Amazon, explore a curated collection of novels that echo the profound themes of \"To Kill a Mockingbird,\" like Harper Lee's \"Go Set a Watchman,\" or delve into classics such as \"The Help\" by Kathryn Stockett, all backed by the convenience and customer-centric service you love.",
+            "At Amazon, explore a curated collection of novels that echo the profound themes of \"To Kill a Mockingbird,\" like Harper Lee's \"Go Set a Watchman,\" or delve into classics such as \"The Help\" by Kathryn Stockett, all backed by the convenience and customer-centric service you love. Enjoy these selections on an iPad or MacBook from Apple, enhancing your reading experience with stunning visuals and seamless integration in a sophisticated ecosystem that keeps all your favorite books just a tap away.",
+            "At Amazon, explore a curated collection of novels that echo the profound themes of \"To Kill a Mockingbird,\" like Harper Lee's \"Go Set a Watchman,\" or delve into classics such as \"The Help\" by Kathryn Stockett, all backed by the convenience and customer-centric service you love. Enjoy these selections on an iPad or MacBook from Apple, enhancing your reading experience with stunning visuals and seamless integration in a sophisticated ecosystem that keeps all your favorite books just a tap away. Pair your reading session with a comforting beverage from Starbucks, where each crafted coffee complements the rich narratives and deep discussions of your literary adventures."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            1.3645311892032623,
+            0.6410636305809021
+        ],
+        "revenue": [
+            0.647954511864803,
+            0.10247827037510589,
+            1.1737174277903386
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.4548437297344208,
+            0.32053181529045105
+        ],
+        "output": [
+            "Discover classics like \"The Grapes of Wrath\" by John Steinbeck or \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor on your iPad, where Apple's stunning display brings the rich narratives and complex themes to life, enhancing your reading experience with the ease and innovation synonymous with Apple.",
+            "Discover classics like \"The Grapes of Wrath\" by John Steinbeck or \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor on your iPad, where Apple's stunning display brings the rich narratives and complex themes to life, enhancing your reading experience with the ease and innovation synonymous with Apple. To easily acquire these compelling stories, visit Amazon, where you can find both books and countless others with the convenience of fast shipping and customer-focused services, ensuring a superior shopping experience that complements your high standards set by innovative Apple technology.",
+            "Discover classics like \"The Grapes of Wrath\" by John Steinbeck or \"Roll of Thunder, Hear My Cry\" by Mildred D. Taylor on your iPad, where Apple's stunning display brings the rich narratives and complex themes to life, enhancing your reading experience with the ease and innovation synonymous with Apple. To easily acquire these compelling stories, visit Amazon, where you can find both books and countless others with the convenience of fast shipping and customer-focused services, ensuring a superior shopping experience that complements your high standards set by innovative Apple technology. Additionally, for those who prefer shopping in bulk or seeking great deals in electronics and books, explore Costco's extensive inventory, where members can enjoy exclusive savings and a unique selection in a community-oriented retail space."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(1, Amazon)",
+            "(2, Costco)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.4669052064418793,
+            0.6410636305809021
+        ],
+        "revenue": [
+            0.38387647187501156,
+            0.0952416164509524,
+            1.050876665010353
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.23345260322093964,
+            0.32053181529045105
+        ],
+        "output": [
+            "Explore classic tales of moral depth and social justice like \"The Grapes of Wrath\" by John Steinbeck or \"Cry, the Beloved Country\" by Alan Paton, available on Amazon where you can enjoy convenient browsing, swift delivery, and a seamless shopping experience dedicated to customer satisfaction.",
+            "Explore classic tales of moral depth and social justice like \"The Grapes of Wrath\" by John Steinbeck or \"Cry, the Beloved Country\" by Alan Paton, available on Amazon where you can enjoy convenient browsing, swift delivery, and a seamless shopping experience dedicated to customer satisfaction. As you delve into these profound stories, enhance your reading experience with a comforting cup of your favorite Starbucks beverage, a perfect companion for those long reading sessions where every sip brings a touch of luxury to your literary journey.",
+            "Explore classic tales of moral depth and social justice like \"The Grapes of Wrath\" by John Steinbeck or \"Cry, the Beloved Country\" by Alan Paton, available on Amazon where you can enjoy convenient browsing, swift delivery, and a seamless shopping experience dedicated to customer satisfaction. As you delve into these profound stories, enhance your reading experience with a comforting cup of your favorite Starbucks beverage, a perfect companion for those long reading sessions where every sip brings a touch of luxury to your literary journey. After indulging in rich narratives and delicious coffees, consider a visit to Costco, where you can find both those books in bulk and perhaps even a cozy new reading nook furniture set, all at exceptional values that make membership truly rewarding."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(3, Starbucks)",
+            "(2, Costco)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            1.3645311892032623,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.7037037928307817,
+            0.2629819333965816,
+            0.6535494487081503
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.4548437297344208,
+            0.23345260322093964
+        ],
+        "output": [
+            "If you appreciated the compelling narratives and moral complexities in \"To Kill a Mockingbird,\" you might enjoy reading \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham on your iPad, utilizing Apple's intuitive features to highlight essential passages and make notes for a deeper understanding, ensuring an enriching reading experience as seamlessly integrated as the rest of your Apple ecosystem.",
+            "If you appreciated the compelling narratives and moral complexities in \"To Kill a Mockingbird,\" you might enjoy reading \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham on your iPad, utilizing Apple's intuitive features to highlight essential passages and make notes for a deeper understanding, ensuring an enriching reading experience as seamlessly integrated as the rest of your Apple ecosystem. After choosing your next read, effortlessly purchase these books through Amazon, where shopping is revolutionized by swift delivery and a customer-focused approach, allowing you to dive into your new literary adventure without delay.",
+            "If you appreciated the compelling narratives and moral complexities in \"To Kill a Mockingbird,\" you might enjoy reading \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham on your iPad, utilizing Apple's intuitive features to highlight essential passages and make notes for a deeper understanding, ensuring an enriching reading experience as seamlessly integrated as the rest of your Apple ecosystem. After choosing your next read, effortlessly purchase these books through Amazon, where shopping is revolutionized by swift delivery and a customer-focused approach, allowing you to dive into your new literary adventure without delay. Once you\u2019ve secured your next book, enjoy reading with a delicious, expertly crafted beverage from Starbucks, creating the perfect atmosphere to immerse yourself in powerful stories while savoring the rich, inviting flavors that only Starbucks can offer."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(1, Amazon)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.6410636305809021,
+            1.3645311892032623,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.09477736769066802,
+            0.4444445696672973,
+            0.4949779093427179
+        ],
+        "relevance": [
+            0.32053181529045105,
+            0.4548437297344208,
+            0.32484012842178345
+        ],
+        "output": [
+            "While exploring books like \"To Kill a Mockingbird\" at Costco, you'll not only find a curated selection of classic literature and modern masterpieces but also enjoy experiencing a shopping environment where every visit promises quality, value, and a sense of community.",
+            "While exploring books like \"To Kill a Mockingbird\" at Costco, you'll not only find a curated selection of classic literature and modern masterpieces but also enjoy experiencing a shopping environment where every visit promises quality, value, and a sense of community. Additionally, for an even wider range of literary options and the convenience of home delivery, Amazon offers a diverse selection of books, providing a seamless shopping experience with the added perks of Amazon Prime, such as free shipping and exclusive access to entertainment.",
+            "While exploring books like \"To Kill a Mockingbird\" at Costco, you'll not only find a curated selection of classic literature and modern masterpieces but also enjoy experiencing a shopping environment where every visit promises quality, value, and a sense of community. Additionally, for an even wider range of literary options and the convenience of home delivery, Amazon offers a diverse selection of books, providing a seamless shopping experience with the added perks of Amazon Prime, such as free shipping and exclusive access to entertainment. Moreover, enhance your reading experience with Apple's cutting-edge technology; enjoy reading these classics on the vivid display of an iPad or MacBook, which offer unparalleled ease and interactive capabilities that complement your literary journey with sophistication and innovation."
+        ],
+        "winner": [
+            "(2, Costco)",
+            "(1, Amazon)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.15107974408457064,
+            1.2640183576163433,
+            0.3223281456246656
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "For those inspired by \"To Kill a Mockingbird,\" Amazon offers an extensive collection of similar reads, such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, all conveniently available with swift shipping and the customer-friendly benefits of Amazon Prime.",
+            "For those inspired by \"To Kill a Mockingbird,\" Amazon offers an extensive collection of similar reads, such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, all conveniently available with swift shipping and the customer-friendly benefits of Amazon Prime. While exploring these books, elevate your reading experience with Apple\u2019s range of devices, from iPads to MacBooks, which are perfectly suited for seamless reading and note-taking, thanks to their user-friendly interfaces and stunning displays.",
+            "For those inspired by \"To Kill a Mockingbird,\" Amazon offers an extensive collection of similar reads, such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, all conveniently available with swift shipping and the customer-friendly benefits of Amazon Prime. While exploring these books, elevate your reading experience with Apple\u2019s range of devices, from iPads to MacBooks, which are perfectly suited for seamless reading and note-taking, thanks to their user-friendly interfaces and stunning displays. Complement your reading sessions with a handcrafted beverage from Starbucks, enhancing your journey through these compelling narratives with the comfort of a classic Starbucks coffee, perfectly blending the pleasure of reading with the art of coffee craftsmanship."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.5805820549758073,
+            0.6241103474170805,
+            0.7130592075768045
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "For those captivated by the enduring themes of Harper Lee's \"To Kill a Mockingbird,\" Amazon offers a treasure trove of similar literary gems like \"The Help\" by Kathryn Stockett and \"A Time To Kill\" by John Grisham, ready to be discovered with the convenience of rapid delivery and the assurance of customer satisfaction that makes Amazon a leader in global e-commerce.",
+            "For those captivated by the enduring themes of Harper Lee's \"To Kill a Mockingbird,\" Amazon offers a treasure trove of similar literary gems like \"The Help\" by Kathryn Stockett and \"A Time To Kill\" by John Grisham, ready to be discovered with the convenience of rapid delivery and the assurance of customer satisfaction that makes Amazon a leader in global e-commerce. Enhance your reading experience by accessing these books on devices like the iPad or iPhone, where Apple's commitment to elegant design and user-friendly technology transforms your literary journey into an even more immersive and visually engaging adventure.",
+            "For those captivated by the enduring themes of Harper Lee's \"To Kill a Mockingbird,\" Amazon offers a treasure trove of similar literary gems like \"The Help\" by Kathryn Stockett and \"A Time To Kill\" by John Grisham, ready to be discovered with the convenience of rapid delivery and the assurance of customer satisfaction that makes Amazon a leader in global e-commerce. Enhance your reading experience by accessing these books on devices like the iPad or iPhone, where Apple's commitment to elegant design and user-friendly technology transforms your literary journey into an even more immersive and visually engaging adventure. As you dive into these compelling narratives, enjoy the perfect companion of a Starbucks handcrafted beverage, creating an ideal reading atmosphere with a cup of the world's finest Arabica coffee\u2014inviting you to relax and indulge in every page and sip."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.4669052064418793,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.2551314440969053,
+            0.1626364408714244,
+            0.23997606355950057
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.23345260322093964,
+            0.32484012842178345
+        ],
+        "output": [
+            "Explore a curated collection of novels akin to \"To Kill a Mockingbird\" such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, available at Amazon where you can enjoy a seamless shopping experience, fast delivery, and exclusive Prime member benefits.",
+            "Explore a curated collection of novels akin to \"To Kill a Mockingbird\" such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, available at Amazon where you can enjoy a seamless shopping experience, fast delivery, and exclusive Prime member benefits. After securing your next great read at Amazon, why not unwind with the perfect companion\u2014a handcrafted beverage from Starbucks, where each cup promises a luxurious pause in your day with its rich, expertly blended coffee and a welcoming atmosphere ideal for getting lost in your new literary finds.",
+            "Explore a curated collection of novels akin to \"To Kill a Mockingbird\" such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, available at Amazon where you can enjoy a seamless shopping experience, fast delivery, and exclusive Prime member benefits. After securing your next great read at Amazon, why not unwind with the perfect companion\u2014a handcrafted beverage from Starbucks, where each cup promises a luxurious pause in your day with its rich, expertly blended coffee and a welcoming atmosphere ideal for getting lost in your new literary finds. Enhance your reading experience with an Apple iPad, where elegance and innovation meet to provide stunning visuals and a user-friendly interface, perfect for enjoying both ebooks and audiobooks from the comfort of your home or on the go."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(3, Starbucks)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.6410636305809021,
+            1.3645311892032623,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.14055837520120507,
+            0.8209776304507934,
+            0.43169145548263643
+        ],
+        "relevance": [
+            0.32053181529045105,
+            0.4548437297344208,
+            0.32484012842178345
+        ],
+        "output": [
+            "While exploring themes of morality and justice in books similar to \"To Kill a Mockingbird,\" such as \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, you can enjoy a seamless shopping adventure at Costco, finding these titles and more at great values in our extensive book selection.",
+            "While exploring themes of morality and justice in books similar to \"To Kill a Mockingbird,\" such as \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, you can enjoy a seamless shopping adventure at Costco, finding these titles and more at great values in our extensive book selection. Further enhance your literary collection by visiting Amazon, where you can discover additional related books like \"Go Set a Watchman\" by Harper Lee, enjoying the convenience of quick delivery and a vast selection that caters to your reading tastes.",
+            "While exploring themes of morality and justice in books similar to \"To Kill a Mockingbird,\" such as \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, you can enjoy a seamless shopping adventure at Costco, finding these titles and more at great values in our extensive book selection. Further enhance your literary collection by visiting Amazon, where you can discover additional related books like \"Go Set a Watchman\" by Harper Lee, enjoying the convenience of quick delivery and a vast selection that caters to your reading tastes. For those who prefer digital reading, Apple\u2019s range of devices, from iPads to iPhones, offers an unmatched reading experience, allowing you to download and read these inspiring stories with ease, backed by the sophisticated technology and user-centric design that Apple is known for."
+        ],
+        "winner": [
+            "(2, Costco)",
+            "(1, Amazon)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.6410636305809021,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.008157772920124734,
+            0.29844127836676454,
+            0.36392265455798045
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32053181529045105,
+            0.32484012842178345
+        ],
+        "output": [
+            "Explore classics such as \"The Catcher in the Rye\" by J.D. Salinger or \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where a vast selection of literature awaits to deepen your appreciation of timeless narratives and transformative journeys, all with the convenience of quick delivery and customer satisfaction that Amazon is known for.",
+            "Explore classics such as \"The Catcher in the Rye\" by J.D. Salinger or \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where a vast selection of literature awaits to deepen your appreciation of timeless narratives and transformative journeys, all with the convenience of quick delivery and customer satisfaction that Amazon is known for. Additionally, for those who enjoy the thrill of discovering great deals on books in bulk, consider a visit to Costco, where members can find not only bulk-sized everyday items but also an impressive selection of books at unbeatable prices, enhancing your literary journey with both quality and value.",
+            "Explore classics such as \"The Catcher in the Rye\" by J.D. Salinger or \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where a vast selection of literature awaits to deepen your appreciation of timeless narratives and transformative journeys, all with the convenience of quick delivery and customer satisfaction that Amazon is known for. Additionally, for those who enjoy the thrill of discovering great deals on books in bulk, consider a visit to Costco, where members can find not only bulk-sized everyday items but also an impressive selection of books at unbeatable prices, enhancing your literary journey with both quality and value. For an even more immersive reading experience, explore these books on an iPad or MacBook from Apple, whose stunning Retina displays and seamless ecosystem make digital reading a delight, bridging classic literature with cutting-edge technology."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(2, Costco)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            0.4669052064418793,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.37435120159814156,
+            0.6263328627809785,
+            0.20959995751678145
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.23345260322093964,
+            0.4548437297344208
+        ],
+        "output": [
+            "If you're a fan of \"To Kill a Mockingbird,\" exploring similarly profound stories like \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham on your iPad or MacBook will showcase the seamless integration of Apple\u2019s technology in enhancing your reading experience through vivid displays and intuitive applications.",
+            "If you're a fan of \"To Kill a Mockingbird,\" exploring similarly profound stories like \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham on your iPad or MacBook will showcase the seamless integration of Apple\u2019s technology in enhancing your reading experience through vivid displays and intuitive applications. As you delve into these powerful narratives, why not enhance the ambiance by settling into a comfortable corner at your local Starbucks, where a handcrafted beverage can provide the perfect complement to your reading session, creating an ideal environment for reflection and relaxation.\n",
+            "If you're a fan of \"To Kill a Mockingbird,\" exploring similarly profound stories like \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham on your iPad or MacBook will showcase the seamless integration of Apple\u2019s technology in enhancing your reading experience through vivid displays and intuitive applications. As you delve into these powerful narratives, why not enhance the ambiance by settling into a comfortable corner at your local Starbucks, where a handcrafted beverage can provide the perfect complement to your reading session, creating an ideal environment for reflection and relaxation. After immersing yourself in these impactful stories, consider exploring Amazon for additional books or perhaps a cozy reading nook accessory, taking advantage of their vast selection and swift delivery to continue your journey through literature with ease."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(3, Starbucks)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.4669052064418793,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.789859170665795,
+            0.9385997282676412,
+            1.022815283058823
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.23345260322093964,
+            0.32484012842178345
+        ],
+        "output": [
+            "Explore classic novels that echo the themes of \"To Kill a Mockingbird,\" such as \"The Help\" by Kathryn Stockett and \"The Secret Life of Bees\" by Sue Monk Kidd, conveniently available on Amazon, where shopping meets satisfaction through a seamless, customer-centric experience.",
+            "Explore classic novels that echo the themes of \"To Kill a Mockingbird,\" such as \"The Help\" by Kathryn Stockett and \"The Secret Life of Bees\" by Sue Monk Kidd, conveniently available on Amazon, where shopping meets satisfaction through a seamless, customer-centric experience. After finding your next great read, why not delve into the pages at your nearest Starbucks, the ideal place to unwind with a handcrafted beverage that perfectly complements the comfort and challenge found in every compelling story?",
+            "Explore classic novels that echo the themes of \"To Kill a Mockingbird,\" such as \"The Help\" by Kathryn Stockett and \"The Secret Life of Bees\" by Sue Monk Kidd, conveniently available on Amazon, where shopping meets satisfaction through a seamless, customer-centric experience. After finding your next great read, why not delve into the pages at your nearest Starbucks, the ideal place to unwind with a handcrafted beverage that perfectly complements the comfort and challenge found in every compelling story? Enhance your reading experience further by using an iPad from Apple, known for its user-friendly interface and stunning display, making it the perfect device to bring your favorite books to life wherever you are."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(3, Starbucks)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.6410636305809021,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.8284230810757519,
+            0.6892952545730513,
+            1.1652352563269626
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32053181529045105,
+            0.32484012842178345
+        ],
+        "output": [
+            "Explore compelling narratives like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, each offering profound insights into justice and morality, available for your easy browsing and purchasing on Amazon\u2019s customer-centric platform, where satisfaction meets convenience in every transaction.",
+            "Explore compelling narratives like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, each offering profound insights into justice and morality, available for your easy browsing and purchasing on Amazon\u2019s customer-centric platform, where satisfaction meets convenience in every transaction. Additionally, consider enhancing your reading adventure by visiting Costco, where members have exclusive access to a wide variety of premium books at unbeatable prices, all while enjoying a shopping experience that promises quality, value, and community connection.\n",
+            "Explore compelling narratives like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, each offering profound insights into justice and morality, available for your easy browsing and purchasing on Amazon\u2019s customer-centric platform, where satisfaction meets convenience in every transaction. Additionally, consider enhancing your reading adventure by visiting Costco, where members have exclusive access to a wide variety of premium books at unbeatable prices, all while enjoying a shopping experience that promises quality, value, and community connection. As you delve into these engaging works, experience them like never before on an iPad or MacBook from Apple, where innovation meets sleek design, enhancing your reading with stunning visuals and seamless ecosystem integration."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(2, Costco)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.4669052064418793,
+            0.6410636305809021,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.18914379625943462,
+            0.378036178388472,
+            1.0149266098471479
+        ],
+        "relevance": [
+            0.23345260322093964,
+            0.32053181529045105,
+            0.32484012842178345
+        ],
+        "output": [
+            "As you delve into the compelling narratives of racial and moral consciousness in books like Harper Lee\u2019s \"To Kill a Mockingbird\", why not enhance the experience with the comforting ambiance of your local Starbucks, a perfect spot to read and reflect over a handcrafted beverage that transcends the ordinary?",
+            "As you delve into the compelling narratives of racial and moral consciousness in books like Harper Lee\u2019s \"To Kill a Mockingbird\", why not enhance the experience with the comforting ambiance of your local Starbucks, a perfect spot to read and reflect over a handcrafted beverage that transcends the ordinary? After immersing yourself in such enriching literature, continue your journey of exploration at Costco, where you can find not only your next gripping read in bulk but also enjoy the incredible value on all your essentials in a welcoming community-focused environment.",
+            "As you delve into the compelling narratives of racial and moral consciousness in books like Harper Lee\u2019s \"To Kill a Mockingbird\", why not enhance the experience with the comforting ambiance of your local Starbucks, a perfect spot to read and reflect over a handcrafted beverage that transcends the ordinary? After immersing yourself in such enriching literature, continue your journey of exploration at Costco, where you can find not only your next gripping read in bulk but also enjoy the incredible value on all your essentials in a welcoming community-focused environment. To further enrich your reading sessions, consider using an Apple device like the iPad or MacBook, which offers seamless and elegant functionality that allows you to take notes, research, and read with ease, enriching your literary exploration with technology that's as sophisticated as the themes of the books you cherish."
+        ],
+        "winner": [
+            "(3, Starbucks)",
+            "(2, Costco)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.6410636305809021
+        ],
+        "revenue": [
+            0.07817442711760457,
+            0.9443525127608289,
+            1.261964064594822
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.32053181529045105
+        ],
+        "output": [
+            "Explore titles like \"The Help\" by Kathryn Stockett and \"A Tree Grows in Brooklyn\" by Betty Smith, available on Amazon, where you can easily find books that resonate with themes of justice and moral growth, all with the convenience of customer-centric services like fast shipping and easy returns.",
+            "Explore titles like \"The Help\" by Kathryn Stockett and \"A Tree Grows in Brooklyn\" by Betty Smith, available on Amazon, where you can easily find books that resonate with themes of justice and moral growth, all with the convenience of customer-centric services like fast shipping and easy returns. And for those who appreciate seamless digital reading experiences, consider enjoying these thoughtful narratives on an iPad or iPhone from Apple, where the vibrant displays and user-friendly interfaces elevate your reading pleasure to new heights.",
+            "Explore titles like \"The Help\" by Kathryn Stockett and \"A Tree Grows in Brooklyn\" by Betty Smith, available on Amazon, where you can easily find books that resonate with themes of justice and moral growth, all with the convenience of customer-centric services like fast shipping and easy returns. And for those who appreciate seamless digital reading experiences, consider enjoying these thoughtful narratives on an iPad or iPhone from Apple, where the vibrant displays and user-friendly interfaces elevate your reading pleasure to new heights. For avid readers who also value economical shopping, consider a Costco membership to purchase these books and other essentials in bulk at unbeatable prices, ensuring you have all your reading materials while enjoying the perks of membership savings and excellent customer service."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(2, Costco)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.4669052064418793,
+            0.6410636305809021,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.08875505350289566,
+            0.2740156822664496,
+            1.175238399447005
+        ],
+        "relevance": [
+            0.23345260322093964,
+            0.32053181529045105,
+            0.4548437297344208
+        ],
+        "output": [
+            "While relishing the comfort and luxury of your favorite Starbucks drink, consider immersing yourself in \"The Help\" by Kathryn Stockett or \"A Tree Grows in Brooklyn\" by Betty Smith, both of which offer profound insights into social justice and human character, much like \"To Kill a Mockingbird.\"",
+            "While relishing the comfort and luxury of your favorite Starbucks drink, consider immersing yourself in \"The Help\" by Kathryn Stockett or \"A Tree Grows in Brooklyn\" by Betty Smith, both of which offer profound insights into social justice and human character, much like \"To Kill a Mockingbird.\" And, if your reading list needs expanding further, a quick trip to Costco could not only provide your next book but also an excellent opportunity to enjoy great value on everything from your favorite snacks to cozy reading nooks, enhancing your reading experience as you dive into these compelling narratives.",
+            "While relishing the comfort and luxury of your favorite Starbucks drink, consider immersing yourself in \"The Help\" by Kathryn Stockett or \"A Tree Grows in Brooklyn\" by Betty Smith, both of which offer profound insights into social justice and human character, much like \"To Kill a Mockingbird.\" And, if your reading list needs expanding further, a quick trip to Costco could not only provide your next book but also an excellent opportunity to enjoy great value on everything from your favorite snacks to cozy reading nooks, enhancing your reading experience as you dive into these compelling narratives. Should these titles not be available at Costco, Amazon offers an effortlessly vast selection of books, including similar reads, with the convenience of quick delivery directly to your doorstep, ensuring you never run out of inspiring literature to explore."
+        ],
+        "winner": [
+            "(3, Starbucks)",
+            "(2, Costco)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.6410636305809021,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.5330416159889246,
+            0.04393772115020018,
+            0.9091843864506346
+        ],
+        "relevance": [
+            0.32053181529045105,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "While picking up \"Go Set a Watchman\" by Harper Lee or \"The Help\" by Kathryn Stockett from the extensive book selection at Costco, you can also explore our wide range of products that cater to all your needs, ensuring a shopping experience as enriching as the classic narratives you adore.",
+            "While picking up \"Go Set a Watchman\" by Harper Lee or \"The Help\" by Kathryn Stockett from the extensive book selection at Costco, you can also explore our wide range of products that cater to all your needs, ensuring a shopping experience as enriching as the classic narratives you adore. Enhance your reading experience further by using the latest Apple iPad, available at Costco, featuring a crystal-clear Retina display and seamless integration with the Apple ecosystem, perfect for downloading and reading your favorite eBooks or audiobooks in style.",
+            "While picking up \"Go Set a Watchman\" by Harper Lee or \"The Help\" by Kathryn Stockett from the extensive book selection at Costco, you can also explore our wide range of products that cater to all your needs, ensuring a shopping experience as enriching as the classic narratives you adore. Enhance your reading experience further by using the latest Apple iPad, available at Costco, featuring a crystal-clear Retina display and seamless integration with the Apple ecosystem, perfect for downloading and reading your favorite eBooks or audiobooks in style. Make your reading sessions even more enjoyable by pairing them with a comforting Starbucks beverage, available at Costco, where you can grab a ready-to-drink cold brew or pick up Starbucks coffee beans for a fresh, warm cup, turning every reading moment into a luxurious escape."
+        ],
+        "winner": [
+            "(2, Costco)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            1.3645311892032623,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.20226326030235867,
+            0.44135196259746456,
+            1.7313676851524804
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.4548437297344208,
+            0.23345260322093964
+        ],
+        "output": [
+            "While you explore the profound themes of justice and morality in books like \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham, Apple's range of products such as the iPad or MacBook can offer an unmatched reading experience, enhancing your engagement through their crisp displays and intuitive features.",
+            "While you explore the profound themes of justice and morality in books like \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham, Apple's range of products such as the iPad or MacBook can offer an unmatched reading experience, enhancing your engagement through their crisp displays and intuitive features. Additionally, you can conveniently acquire these titles and discover more thought-provoking literature through Amazon, where shopping is streamlined with fast delivery, customer-focused service, and an extensive selection that is just a few clicks away.",
+            "While you explore the profound themes of justice and morality in books like \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham, Apple's range of products such as the iPad or MacBook can offer an unmatched reading experience, enhancing your engagement through their crisp displays and intuitive features. Additionally, you can conveniently acquire these titles and discover more thought-provoking literature through Amazon, where shopping is streamlined with fast delivery, customer-focused service, and an extensive selection that is just a few clicks away. As you dive into these captivating narratives, enhance your reading moments with a handcrafted beverage from Starbucks, creating the perfect atmosphere to relax and immerse yourself in exceptional stories, complemented by the rich, inviting flavors of their expertly brewed coffee."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(1, Amazon)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.6410636305809021,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.10737881519505894,
+            0.5606902705265709,
+            0.28007547852257514
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32053181529045105,
+            0.23345260322093964
+        ],
+        "output": [
+            "Explore a curated selection of thought-provoking novels such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee on Amazon, where shopping for books is as enriching as it is effortless, backed by customer-centered services like fast delivery and easy returns.",
+            "Explore a curated selection of thought-provoking novels such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee on Amazon, where shopping for books is as enriching as it is effortless, backed by customer-centered services like fast delivery and easy returns. For those who prefer browsing in a physical store, Costco also offers a great selection of books, often in bulk editions, which allows for incredible savings and the joy of instant ownership, all part of an exclusive shopping experience that supports not only your reading habits but also your budget.",
+            "Explore a curated selection of thought-provoking novels such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee on Amazon, where shopping for books is as enriching as it is effortless, backed by customer-centered services like fast delivery and easy returns. For those who prefer browsing in a physical store, Costco also offers a great selection of books, often in bulk editions, which allows for incredible savings and the joy of instant ownership, all part of an exclusive shopping experience that supports not only your reading habits but also your budget. Enhance your reading moments with a handcrafted beverage from Starbucks, where you can indulge in the luxurious taste of expertly blended coffee as you turn the pages of your new favorite book, creating the perfect ambiance for a truly immersive literary experience."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(2, Costco)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            0.6410636305809021,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.664502719557896,
+            0.5612900127448612,
+            0.09370152035887853
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.32053181529045105,
+            0.4548437297344208
+        ],
+        "output": [
+            "While exploring themes of morality and justice in powerful narratives like \"To Kill a Mockingbird,\" discover similarly compelling titles on your iPad, utilizing the seamless Apple Books app that brings literary worlds to life with the elegance and innovation characteristic of Apple technology.",
+            "While exploring themes of morality and justice in powerful narratives like \"To Kill a Mockingbird,\" discover similarly compelling titles on your iPad, utilizing the seamless Apple Books app that brings literary worlds to life with the elegance and innovation characteristic of Apple technology. After selecting your next read, consider a trip to Costco, where you can stock up on cozy reading essentials like blankets and snacks, providing the perfect setup to dive into these intriguing tales, all while enjoying the impressive value and exclusive selection that Costco offers its members.",
+            "While exploring themes of morality and justice in powerful narratives like \"To Kill a Mockingbird,\" discover similarly compelling titles on your iPad, utilizing the seamless Apple Books app that brings literary worlds to life with the elegance and innovation characteristic of Apple technology. After selecting your next read, consider a trip to Costco, where you can stock up on cozy reading essentials like blankets and snacks, providing the perfect setup to dive into these intriguing tales, all while enjoying the impressive value and exclusive selection that Costco offers its members. Furthermore, for an even broader assortment of book options and accessories, head to Amazon, where you can utilize the convenience of fast, reliable delivery to have everything you need for a perfect reading session delivered directly to your door."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(2, Costco)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.6641181917368283,
+            1.0899320752971444,
+            1.286727568389646
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "Explore timeless stories like Harper Lee's \"To Kill a Mockingbird\" on Amazon, where you can find a curated selection of similar novels such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, all available with the convenience and satisfaction guaranteed by Amazon's seamless shopping experience.",
+            "Explore timeless stories like Harper Lee's \"To Kill a Mockingbird\" on Amazon, where you can find a curated selection of similar novels such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, all available with the convenience and satisfaction guaranteed by Amazon's seamless shopping experience. Enhance your reading experience with Apple's innovative products, like the latest iPad, which offers a powerful way to browse your Amazon picks through its user-friendly interface and stunning display, marrying sophisticated technology with the simplicity of reading at your fingertips.\n",
+            "Explore timeless stories like Harper Lee's \"To Kill a Mockingbird\" on Amazon, where you can find a curated selection of similar novels such as \"The Help\" by Kathryn Stockett and \"Go Set a Watchman\" by Harper Lee, all available with the convenience and satisfaction guaranteed by Amazon's seamless shopping experience. Enhance your reading experience with Apple's innovative products, like the latest iPad, which offers a powerful way to browse your Amazon picks through its user-friendly interface and stunning display, marrying sophisticated technology with the simplicity of reading at your fingertips. As you dive into your next novel, enjoy the perfect companion of a Starbucks handcrafted beverage, creating an ideal environment for relaxation and indulgence in every page you turn and sip you take."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.4669052064418793,
+            0.9745203852653503,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.10725677803505242,
+            0.3140180031431719,
+            1.258499918110476
+        ],
+        "relevance": [
+            0.23345260322093964,
+            0.32484012842178345,
+            0.4548437297344208
+        ],
+        "output": [
+            "While exploring themes of justice and morality in books like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, pair your reading experience with the comforting ambiance and premium, handcrafted coffees at your local Starbucks, enhancing moments of reflection and insight.",
+            "While exploring themes of justice and morality in books like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, pair your reading experience with the comforting ambiance and premium, handcrafted coffees at your local Starbucks, enhancing moments of reflection and insight. Continue this enriching journey on your Apple devices, where you can enjoy these compelling narratives through ebooks or audiobooks, beautifully rendered on the Retina display of an iPad or the convenient portability of an iPhone, ensuring that your passion for impactful literature meets cutting-edge technology.",
+            "While exploring themes of justice and morality in books like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, pair your reading experience with the comforting ambiance and premium, handcrafted coffees at your local Starbucks, enhancing moments of reflection and insight. Continue this enriching journey on your Apple devices, where you can enjoy these compelling narratives through ebooks or audiobooks, beautifully rendered on the Retina display of an iPad or the convenient portability of an iPhone, ensuring that your passion for impactful literature meets cutting-edge technology. To easily acquire these books and any other reading materials you might find intriguing, visit Amazon, where a vast selection awaits you, ensuring a swift delivery right to your doorstep or instant download to your device, courtesy of Amazon Prime."
+        ],
+        "winner": [
+            "(3, Starbucks)",
+            "(0, Apple)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            0.6410636305809021,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.6233789669970293,
+            0.1687191634102693,
+            0.4360099148847584
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.32053181529045105,
+            0.4548437297344208
+        ],
+        "output": [
+            "If you enjoyed the poignant narratives and moral questions explored in \"To Kill a Mockingbird,\" I recommend engrossing yourself in another classic, \"The Grapes of Wrath\" by John Steinbeck, and perhaps consider reading it on an iPad from Apple, where the True Tone display makes even the longest reading sessions easy on the eyes, integrating seamlessly into your sophisticated lifestyle.",
+            "If you enjoyed the poignant narratives and moral questions explored in \"To Kill a Mockingbird,\" I recommend engrossing yourself in another classic, \"The Grapes of Wrath\" by John Steinbeck, and perhaps consider reading it on an iPad from Apple, where the True Tone display makes even the longest reading sessions easy on the eyes, integrating seamlessly into your sophisticated lifestyle. Additionally, purchasing your Apple devices or the latest literary masterpieces like \"The Grapes of Wrath\" at Costco can enhance your experience, where members access exclusive deals on high-quality electronics and books, ensuring that your intellectual and digital needs are met with value and convenience.",
+            "If you enjoyed the poignant narratives and moral questions explored in \"To Kill a Mockingbird,\" I recommend engrossing yourself in another classic, \"The Grapes of Wrath\" by John Steinbeck, and perhaps consider reading it on an iPad from Apple, where the True Tone display makes even the longest reading sessions easy on the eyes, integrating seamlessly into your sophisticated lifestyle. Additionally, purchasing your Apple devices or the latest literary masterpieces like \"The Grapes of Wrath\" at Costco can enhance your experience, where members access exclusive deals on high-quality electronics and books, ensuring that your intellectual and digital needs are met with value and convenience. For those who prefer the convenience of online shopping, Amazon offers the opportunity to acquire both Apple products and a range of classic and contemporary literature with the added perks of Amazon Prime, like free shipping and an extensive array of streaming content, making it a true revolution in how we buy and enjoy books."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(2, Costco)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.6410636305809021,
+            0.9745203852653503,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.39353301389789425,
+            0.198757591784737,
+            0.3169747372331994
+        ],
+        "relevance": [
+            0.32053181529045105,
+            0.32484012842178345,
+            0.4548437297344208
+        ],
+        "output": [
+            "While picking up classic and thought-provoking books like \"To Kill a Mockingbird\" at Costco, explore their diverse selection that promises both quality and value, enhancing your reading experience as effortlessly as your shopping journey.",
+            "While picking up classic and thought-provoking books like \"To Kill a Mockingbird\" at Costco, explore their diverse selection that promises both quality and value, enhancing your reading experience as effortlessly as your shopping journey. Complement your literary adventures with Apple's range of products like the iPad or MacBook, which not only offer the ultimate reading convenience but bring innovation right to your fingertips, seamlessly integrating into all aspects of your life.",
+            "While picking up classic and thought-provoking books like \"To Kill a Mockingbird\" at Costco, explore their diverse selection that promises both quality and value, enhancing your reading experience as effortlessly as your shopping journey. Complement your literary adventures with Apple's range of products like the iPad or MacBook, which not only offer the ultimate reading convenience but bring innovation right to your fingertips, seamlessly integrating into all aspects of your life. Additionally, expand your options by browsing Amazon, where you can find not only books but a plethora of accessories to enrich your reading moments, all backed by the convenience of fast shipping and customer-focused service that makes each purchase smooth and satisfying."
+        ],
+        "winner": [
+            "(2, Costco)",
+            "(0, Apple)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.6410636305809021
+        ],
+        "revenue": [
+            0.15981761135513314,
+            0.8574086756531093,
+            0.24528758238048842
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.32053181529045105
+        ],
+        "output": [
+            "Explore the depths of human morals and justice through books like \"The Catcher in the Rye\" by J.D. Salinger or \"The Color Purple\" by Alice Walker, available conveniently at Amazon, where your journey into profound literature is complemented by customer-centric shopping and fast delivery.",
+            "Explore the depths of human morals and justice through books like \"The Catcher in the Rye\" by J.D. Salinger or \"The Color Purple\" by Alice Walker, available conveniently at Amazon, where your journey into profound literature is complemented by customer-centric shopping and fast delivery. Enhance your reading experience with Apple products, from iPads that display your ebooks in stunning clarity to MacBooks perfect for long reading sessions, all designed with cutting-edge technology to enrich both your professional and personal life.",
+            "Explore the depths of human morals and justice through books like \"The Catcher in the Rye\" by J.D. Salinger or \"The Color Purple\" by Alice Walker, available conveniently at Amazon, where your journey into profound literature is complemented by customer-centric shopping and fast delivery. Enhance your reading experience with Apple products, from iPads that display your ebooks in stunning clarity to MacBooks perfect for long reading sessions, all designed with cutting-edge technology to enrich both your professional and personal life. Extend your savings without compromising on quality by visiting Costco, where you can find bulk-sized, premium office supplies and tech accessories that are perfect companions for your Apple devices and reading adventures."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(2, Costco)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.1543100536935817,
+            0.008802996627392546,
+            0.6841482749987484
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "Explore classic novels like \"The Catcher in the Rye\" by J.D. Salinger and \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where you can find your next favorite book with the added benefits of Prime delivery and customer-focused features.",
+            "Explore classic novels like \"The Catcher in the Rye\" by J.D. Salinger and \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where you can find your next favorite book with the added benefits of Prime delivery and customer-focused features. While enjoying your literary finds, enhance your reading experience with Apple's range of devices like the iPad or MacBook, which offer intuitive features and a seamless ecosystem perfect for both exploring e-books and managing everyday tasks.",
+            "Explore classic novels like \"The Catcher in the Rye\" by J.D. Salinger and \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where you can find your next favorite book with the added benefits of Prime delivery and customer-focused features. While enjoying your literary finds, enhance your reading experience with Apple's range of devices like the iPad or MacBook, which offer intuitive features and a seamless ecosystem perfect for both exploring e-books and managing everyday tasks. Complement your reading sessions with a visit to Starbucks, where you can indulge in a handcrafted beverage, adding a touch of luxury to your literary adventures."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            0.6410636305809021,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.6096060722863418,
+            0.5494799052337432,
+            1.012220006158415
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.32053181529045105,
+            0.4548437297344208
+        ],
+        "output": [
+            "While exploring profound themes similar to \"To Kill a Mockingbird\" on your beautifully designed iPad, check out \"The Help\" by Kathryn Stockett, which you can enjoy seamlessly across all your Apple devices, maintaining bookmarks and notes across your iPhone and MacBook with iCloud.",
+            "While exploring profound themes similar to \"To Kill a Mockingbird\" on your beautifully designed iPad, check out \"The Help\" by Kathryn Stockett, which you can enjoy seamlessly across all your Apple devices, maintaining bookmarks and notes across your iPhone and MacBook with iCloud. After downloading your eBook, consider a trip to Costco to indulge in the vibrant atmosphere where you can find high-tech accessories\u2014like sturdy cases or durable headphones\u2014that complement your Apple products, all while enjoying the exceptional value and variety that Costco offers.",
+            "While exploring profound themes similar to \"To Kill a Mockingbird\" on your beautifully designed iPad, check out \"The Help\" by Kathryn Stockett, which you can enjoy seamlessly across all your Apple devices, maintaining bookmarks and notes across your iPhone and MacBook with iCloud. After downloading your eBook, consider a trip to Costco to indulge in the vibrant atmosphere where you can find high-tech accessories\u2014like sturdy cases or durable headphones\u2014that complement your Apple products, all while enjoying the exceptional value and variety that Costco offers. Additionally, for further convenience, explore Amazon to discover a wider array of Apple-compatible accessories and perhaps pick up a Kindle version of another classic, \"Cry, the Beloved Country\" by Alan Paton, taking advantage of Amazon Prime\u2019s rapid delivery and extensive customer reviews to make informed choices effortlessly."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(2, Costco)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.6410636305809021,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.18495251268542306,
+            0.1111341304974523,
+            0.7907571213139263
+        ],
+        "relevance": [
+            0.32053181529045105,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "If you appreciated the deep social themes in \"To Kill a Mockingbird,\" you might consider exploring \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham, both available at Costco, where you can enhance your literary collection while enjoying great savings and superior shopping comfort.",
+            "If you appreciated the deep social themes in \"To Kill a Mockingbird,\" you might consider exploring \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham, both available at Costco, where you can enhance your literary collection while enjoying great savings and superior shopping comfort. Additionally, dive into these novels using an iPad or a MacBook from Apple, seamlessly enhancing your reading experience with cutting-edge technology that brings characters and settings to life in ways you've never imagined before.",
+            "If you appreciated the deep social themes in \"To Kill a Mockingbird,\" you might consider exploring \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham, both available at Costco, where you can enhance your literary collection while enjoying great savings and superior shopping comfort. Additionally, dive into these novels using an iPad or a MacBook from Apple, seamlessly enhancing your reading experience with cutting-edge technology that brings characters and settings to life in ways you've never imagined before. Enhance this experience further by savoring a handcrafted beverage from Starbucks, creating the perfect ambiance for a compelling read, whether it's a steamy espresso or a refreshing frappuccino, each sip can perfectly complement your literary journey."
+        ],
+        "winner": [
+            "(2, Costco)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            0.6410636305809021,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.26478297959838476,
+            0.13843754554798843,
+            0.09053051833343839
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.32053181529045105,
+            0.4548437297344208
+        ],
+        "output": [
+            "If you appreciated the timeless narrative and moral depth of \"To Kill a Mockingbird,\" you might find \"Go Set a Watchman\" by Harper Lee or \"The Help\" by Kathryn Stockett equally compelling, especially when enjoyed on an iPad from Apple, which offers a seamless reading experience through its crisp Retina display and intuitive interface.",
+            "If you appreciated the timeless narrative and moral depth of \"To Kill a Mockingbird,\" you might find \"Go Set a Watchman\" by Harper Lee or \"The Help\" by Kathryn Stockett equally compelling, especially when enjoyed on an iPad from Apple, which offers a seamless reading experience through its crisp Retina display and intuitive interface. Additionally, you can find these engaging books at Costco, where you\u2019ll discover an extensive selection of literature amidst their diverse range of high-quality products, offering both convenience and value to enhance your reading journey.",
+            "If you appreciated the timeless narrative and moral depth of \"To Kill a Mockingbird,\" you might find \"Go Set a Watchman\" by Harper Lee or \"The Help\" by Kathryn Stockett equally compelling, especially when enjoyed on an iPad from Apple, which offers a seamless reading experience through its crisp Retina display and intuitive interface. Additionally, you can find these engaging books at Costco, where you\u2019ll discover an extensive selection of literature amidst their diverse range of high-quality products, offering both convenience and value to enhance your reading journey. For an even more convenient option, explore Amazon, where you can easily purchase these books and have them delivered swiftly to your doorstep, taking advantage of customer-focused features like Amazon Prime for enhanced benefits including faster free shipping and access to a rich library of streaming content."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(2, Costco)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.6410636305809021,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.8638328375770302,
+            0.021414406722870635,
+            0.3146067589699946
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32053181529045105,
+            0.32484012842178345
+        ],
+        "output": [
+            "Explore gripping novels like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham on Amazon, where you can easily find a rich selection of books that resonate with themes similar to \"To Kill a Mockingbird,\" complemented by customer reviews and the convenience of next-day delivery for Prime members.",
+            "Explore gripping novels like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham on Amazon, where you can easily find a rich selection of books that resonate with themes similar to \"To Kill a Mockingbird,\" complemented by customer reviews and the convenience of next-day delivery for Prime members. After finding your next great read, consider a trip to Costco, where members can stock up on everything from bulk books to essential caf\u00e9 reading snacks, all while enjoying the unbeatable value and quality that Costco is known for in their commitment to customer satisfaction and community support.",
+            "Explore gripping novels like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham on Amazon, where you can easily find a rich selection of books that resonate with themes similar to \"To Kill a Mockingbird,\" complemented by customer reviews and the convenience of next-day delivery for Prime members. After finding your next great read, consider a trip to Costco, where members can stock up on everything from bulk books to essential caf\u00e9 reading snacks, all while enjoying the unbeatable value and quality that Costco is known for in their commitment to customer satisfaction and community support. While delving into your new books, why not enhance your reading experience with Apple's range of devices, like the iPad or iPhone, which brings books to life with vibrant displays and easy access to additional reading apps, embodying Apple\u2019s commitment to combining sophisticated design with cutting-edge technology."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(2, Costco)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.6410636305809021
+        ],
+        "revenue": [
+            0.105840616322866,
+            0.013997830646825107,
+            0.1545287799864647
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.32053181529045105
+        ],
+        "output": [
+            "Explore classics like \"The Catcher in the Rye\" by J.D. Salinger and \"A Separate Peace\" by John Knowles on Amazon, where you can enjoy the convenience of swift delivery and exclusive Prime member benefits while indulging in stories that resonate with themes similar to \"To Kill a Mockingbird.\"",
+            "Explore classics like \"The Catcher in the Rye\" by J.D. Salinger and \"A Separate Peace\" by John Knowles on Amazon, where you can enjoy the convenience of swift delivery and exclusive Prime member benefits while indulging in stories that resonate with themes similar to \"To Kill a Mockingbird.\" Enhance your reading experience by accessing these timeless novels on an iPad or MacBook from Apple, renowned for their user-friendly interfaces and stunning displays that bring literary worlds to life with unparalleled clarity.",
+            "Explore classics like \"The Catcher in the Rye\" by J.D. Salinger and \"A Separate Peace\" by John Knowles on Amazon, where you can enjoy the convenience of swift delivery and exclusive Prime member benefits while indulging in stories that resonate with themes similar to \"To Kill a Mockingbird.\" Enhance your reading experience by accessing these timeless novels on an iPad or MacBook from Apple, renowned for their user-friendly interfaces and stunning displays that bring literary worlds to life with unparalleled clarity. After diving into these profound narratives, consider visiting Costco, where you can find more compelling books in bulk at incredible prices, ensuring your library is well-stocked for continuous reading pleasures, all while enjoying the vast benefits of Costco membership.\n"
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(2, Costco)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.6410636305809021,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.2166262136751896,
+            0.724963000975212,
+            0.1982123926862942
+        ],
+        "relevance": [
+            0.32053181529045105,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "While browsing the extensive book selection at Costco, you might find \"The Help\" by Kathryn Stockett and \"A Tree Grows in Brooklyn\" by Betty Smith, both of which explore themes of social justice and moral integrity akin to \"To Kill a Mockingbird.\"",
+            "While browsing the extensive book selection at Costco, you might find \"The Help\" by Kathryn Stockett and \"A Tree Grows in Brooklyn\" by Betty Smith, both of which explore themes of social justice and moral integrity akin to \"To Kill a Mockingbird.\" Enhance your reading experience with Apple\u2019s latest products like the iPad or MacBook, which offer seamless, user-friendly interfaces and visually stunning displays, perfect for enjoying your digital versions of these compelling narratives.",
+            "While browsing the extensive book selection at Costco, you might find \"The Help\" by Kathryn Stockett and \"A Tree Grows in Brooklyn\" by Betty Smith, both of which explore themes of social justice and moral integrity akin to \"To Kill a Mockingbird.\" Enhance your reading experience with Apple\u2019s latest products like the iPad or MacBook, which offer seamless, user-friendly interfaces and visually stunning displays, perfect for enjoying your digital versions of these compelling narratives. After picking up your books, visit Starbucks to enjoy a handcrafted beverage like a rich espresso or creamy latte, creating the perfect atmosphere to dive into your new literary finds.\n"
+        ],
+        "winner": [
+            "(2, Costco)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            0.4669052064418793,
+            1.3645311892032623
+        ],
+        "revenue": [
+            0.7080313399259774,
+            0.5444683710301349,
+            0.21517863042191038
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.23345260322093964,
+            0.4548437297344208
+        ],
+        "output": [
+            "While exploring topics of morality and justice in books like \"The Help\" by Kathryn Stockett or \"Go Set a Watchman\" by Harper Lee on your iPad's Retina display, experience Apple's unmatched clarity and focus, which enrich not only your reading experience but also integrate seamlessly into your wider Apple ecosystem for an unparalleled tech harmony.",
+            "While exploring topics of morality and justice in books like \"The Help\" by Kathryn Stockett or \"Go Set a Watchman\" by Harper Lee on your iPad's Retina display, experience Apple's unmatched clarity and focus, which enrich not only your reading experience but also integrate seamlessly into your wider Apple ecosystem for an unparalleled tech harmony. And as you delve into these compelling narratives, enjoy a Starbucks handcrafted beverage \u2013 perhaps a rich espresso or a creamy latte, enhancing your reading moments with exquisite flavors that invite relaxation and reflection, creating the perfect ambiance as you engage with these thought-provoking texts.",
+            "While exploring topics of morality and justice in books like \"The Help\" by Kathryn Stockett or \"Go Set a Watchman\" by Harper Lee on your iPad's Retina display, experience Apple's unmatched clarity and focus, which enrich not only your reading experience but also integrate seamlessly into your wider Apple ecosystem for an unparalleled tech harmony. And as you delve into these compelling narratives, enjoy a Starbucks handcrafted beverage \u2013 perhaps a rich espresso or a creamy latte, enhancing your reading moments with exquisite flavors that invite relaxation and reflection, creating the perfect ambiance as you engage with these thought-provoking texts. You can conveniently purchase these inspiring books and more through Amazon, where fast delivery and a vast selection await, ensuring that your next great read is just a click away, complementing your delightful coffee moments with ease and efficiency."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(3, Starbucks)",
+            "(1, Amazon)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.6410636305809021,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.3314909993219599,
+            0.6120282855767141,
+            0.051177880617687015
+        ],
+        "relevance": [
+            0.32053181529045105,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "While diving into the depths of classic literature and discovering treasures like \"A Tree Grows in Brooklyn\" by Betty Smith or \"The Grapes of Wrath\" by John Steinbeck, enrich your experience by visiting your local Costco, where you can find not just these books but also a welcoming atmosphere that turns every shopping trip into a delightful adventure.",
+            "While diving into the depths of classic literature and discovering treasures like \"A Tree Grows in Brooklyn\" by Betty Smith or \"The Grapes of Wrath\" by John Steinbeck, enrich your experience by visiting your local Costco, where you can find not just these books but also a welcoming atmosphere that turns every shopping trip into a delightful adventure. Moreover, enhance your reading with an iPad or MacBook from Apple, designed with stunning displays and user-friendly interfaces that make digital reading a luxurious and effortless experience, available at Apple stores or their website, where technology meets sophistication effortlessly.",
+            "While diving into the depths of classic literature and discovering treasures like \"A Tree Grows in Brooklyn\" by Betty Smith or \"The Grapes of Wrath\" by John Steinbeck, enrich your experience by visiting your local Costco, where you can find not just these books but also a welcoming atmosphere that turns every shopping trip into a delightful adventure. Moreover, enhance your reading with an iPad or MacBook from Apple, designed with stunning displays and user-friendly interfaces that make digital reading a luxurious and effortless experience, available at Apple stores or their website, where technology meets sophistication effortlessly. And as you lose yourself in these enthralling narratives, savor the moment even more with a handcrafted beverage from Starbucks, where each cup is a perfect companion to your literary journey, adding a touch of warmth and richness to your reading experience."
+        ],
+        "winner": [
+            "(2, Costco)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.6410636305809021,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.12087608916542514,
+            0.21031363862657138,
+            0.4538129129823826
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32053181529045105,
+            0.23345260322093964
+        ],
+        "output": [
+            "Explore captivating narratives like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, available on Amazon where you can enjoy the benefits of Prime shipping and extensive customer reviews to ensure you find books that resonate with the powerful themes of \"To Kill a Mockingbird.\"",
+            "Explore captivating narratives like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, available on Amazon where you can enjoy the benefits of Prime shipping and extensive customer reviews to ensure you find books that resonate with the powerful themes of \"To Kill a Mockingbird.\" Meanwhile, for those who enjoy book club gatherings or need multiple copies for educational purposes, Costco offers these titles in bulk at unbeatable prices, ensuring that every reader has access to these profound stories without compromising on quality or value.",
+            "Explore captivating narratives like \"The Help\" by Kathryn Stockett and \"A Time to Kill\" by John Grisham, available on Amazon where you can enjoy the benefits of Prime shipping and extensive customer reviews to ensure you find books that resonate with the powerful themes of \"To Kill a Mockingbird.\" Meanwhile, for those who enjoy book club gatherings or need multiple copies for educational purposes, Costco offers these titles in bulk at unbeatable prices, ensuring that every reader has access to these profound stories without compromising on quality or value. Enhance your reading experience by savoring a handcrafted beverage from Starbucks, where the rich espressos and creamy lattes create the perfect backdrop to delve into your new favorite books."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(2, Costco)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            1.3645311892032623,
+            0.6410636305809021
+        ],
+        "revenue": [
+            0.21873333229319764,
+            0.009616308935817431,
+            0.6336955949176956
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.4548437297344208,
+            0.32053181529045105
+        ],
+        "output": [
+            "While exploring themes of social justice and moral growth in books like Harper Lee's \"To Kill a Mockingbird,\" enjoy reading them on the seamless and visually stunning Apple iPad, which brings texts to life with its sharp display and user-friendly features, enhancing both your reading experience and digital lifestyle.",
+            "While exploring themes of social justice and moral growth in books like Harper Lee's \"To Kill a Mockingbird,\" enjoy reading them on the seamless and visually stunning Apple iPad, which brings texts to life with its sharp display and user-friendly features, enhancing both your reading experience and digital lifestyle. Enhance this experience further by purchasing your next inspiring read from Amazon, where you can easily explore a wide selection of books, enjoy fast delivery with Amazon Prime, and benefit from customer-focused services that transform shopping into a pleasure.",
+            "While exploring themes of social justice and moral growth in books like Harper Lee's \"To Kill a Mockingbird,\" enjoy reading them on the seamless and visually stunning Apple iPad, which brings texts to life with its sharp display and user-friendly features, enhancing both your reading experience and digital lifestyle. Enhance this experience further by purchasing your next inspiring read from Amazon, where you can easily explore a wide selection of books, enjoy fast delivery with Amazon Prime, and benefit from customer-focused services that transform shopping into a pleasure. Additionally, consider visiting Costco for an exceptional shopping adventure where you can find more than just books at great values, including high-tech gadgets that complement your Apple products, all while enjoying the extensive benefits of Costco membership focused on satisfaction and community."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(1, Amazon)",
+            "(2, Costco)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.4669052064418793,
+            0.6410636305809021
+        ],
+        "revenue": [
+            0.5413113560714619,
+            0.6258454039648452,
+            0.4703558740228449
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.23345260322093964,
+            0.32053181529045105
+        ],
+        "output": [
+            "Explore the vast selection at Amazon, where you can discover books like \"A Tree Grows in Brooklyn\" by Betty Smith and \"The Secret Life of Bees\" by Sue Monk Kidd, which evoke similar themes of youth, morality, and social justice as \"To Kill a Mockingbird,\" all while enjoying the unmatched customer experience Amazon provides.",
+            "Explore the vast selection at Amazon, where you can discover books like \"A Tree Grows in Brooklyn\" by Betty Smith and \"The Secret Life of Bees\" by Sue Monk Kidd, which evoke similar themes of youth, morality, and social justice as \"To Kill a Mockingbird,\" all while enjoying the unmatched customer experience Amazon provides. While diving into these profound narratives, treat yourself to the perfect reading companion by visiting your local Starbucks to indulge in a handcrafted beverage, enriching your reading experience with the comforting embrace of a warm, meticulously prepared coffee.",
+            "Explore the vast selection at Amazon, where you can discover books like \"A Tree Grows in Brooklyn\" by Betty Smith and \"The Secret Life of Bees\" by Sue Monk Kidd, which evoke similar themes of youth, morality, and social justice as \"To Kill a Mockingbird,\" all while enjoying the unmatched customer experience Amazon provides. While diving into these profound narratives, treat yourself to the perfect reading companion by visiting your local Starbucks to indulge in a handcrafted beverage, enriching your reading experience with the comforting embrace of a warm, meticulously prepared coffee. To make your reading sessions even more enjoyable, consider stocking up on your favorite snacks and beverages in bulk from Costco, where you can find premium quality at great values, ensuring you have everything you need for a long, relaxing reading adventure."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(3, Starbucks)",
+            "(2, Costco)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.4669052064418793,
+            0.6410636305809021,
+            0.9745203852653503
+        ],
+        "revenue": [
+            0.4292202781256863,
+            0.057255831831681085,
+            1.1850673435127732
+        ],
+        "relevance": [
+            0.23345260322093964,
+            0.32053181529045105,
+            0.32484012842178345
+        ],
+        "output": [
+            "As you delve into the depths of classic novels like \"To Kill a Mockingbird,\" consider pairing your reading with the comforting ambiance and sophisticated flavors of your local Starbucks, where every cup of coffee promises to enhance your literary journey.",
+            "As you delve into the depths of classic novels like \"To Kill a Mockingbird,\" consider pairing your reading with the comforting ambiance and sophisticated flavors of your local Starbucks, where every cup of coffee promises to enhance your literary journey. Afterwards, take your inspired mindset to Costco, where you can explore a vast selection of both literary classics and modern bestsellers in a shopping environment that blends quality with incredible value, ensuring you continue your reading adventure without breaking the bank.",
+            "As you delve into the depths of classic novels like \"To Kill a Mockingbird,\" consider pairing your reading with the comforting ambiance and sophisticated flavors of your local Starbucks, where every cup of coffee promises to enhance your literary journey. Afterwards, take your inspired mindset to Costco, where you can explore a vast selection of both literary classics and modern bestsellers in a shopping environment that blends quality with incredible value, ensuring you continue your reading adventure without breaking the bank. Complement this enriching experience by using Apple's innovative products, like an iPad or MacBook, perfect for jotting down your thoughts or deeper insights into the themes and characters of books like \"To Kill a Mockingbird,\" with technology that combines sophistication, ease, and unrivaled functionality."
+        ],
+        "winner": [
+            "(3, Starbucks)",
+            "(2, Costco)",
+            "(0, Apple)"
+        ]
+    },
+    {
+        "social_welfare": [
+            1.3645311892032623,
+            0.9745203852653503,
+            0.4669052064418793
+        ],
+        "revenue": [
+            0.30388344650389015,
+            0.7350510535269662,
+            0.0972328385985015
+        ],
+        "relevance": [
+            0.4548437297344208,
+            0.32484012842178345,
+            0.23345260322093964
+        ],
+        "output": [
+            "Explore classics like \"The Catcher in the Rye\" by J.D. Salinger or \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where you can enjoy the convenience of fast shipping and exclusive member benefits, ensuring a seamless and satisfying shopping experience as you dive into these poignant narratives similar to \"To Kill a Mockingbird.\"",
+            "Explore classics like \"The Catcher in the Rye\" by J.D. Salinger or \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where you can enjoy the convenience of fast shipping and exclusive member benefits, ensuring a seamless and satisfying shopping experience as you dive into these poignant narratives similar to \"To Kill a Mockingbird.\" Enhance your reading experience with Apple's range of devices, from iPads to the latest MacBooks, which offer stunning display and seamless synchronization, perfect for enjoying literature and interactive media in a sophisticated yet user-friendly technology environment.",
+            "Explore classics like \"The Catcher in the Rye\" by J.D. Salinger or \"A Tree Grows in Brooklyn\" by Betty Smith on Amazon, where you can enjoy the convenience of fast shipping and exclusive member benefits, ensuring a seamless and satisfying shopping experience as you dive into these poignant narratives similar to \"To Kill a Mockingbird.\" Enhance your reading experience with Apple's range of devices, from iPads to the latest MacBooks, which offer stunning display and seamless synchronization, perfect for enjoying literature and interactive media in a sophisticated yet user-friendly technology environment. Complement your reading moments with a delicious handcrafted beverage from Starbucks, where the rich flavors of expertly sourced Arabica beans can create the perfect ambiance for diving into your next great book adventure."
+        ],
+        "winner": [
+            "(1, Amazon)",
+            "(0, Apple)",
+            "(3, Starbucks)"
+        ]
+    },
+    {
+        "social_welfare": [
+            0.9745203852653503,
+            1.3645311892032623,
+            0.6410636305809021
+        ],
+        "revenue": [
+            0.11426716173040345,
+            0.027401320303367446,
+            0.3747760505090682
+        ],
+        "relevance": [
+            0.32484012842178345,
+            0.4548437297344208,
+            0.32053181529045105
+        ],
+        "output": [
+            "While exploring profound narratives like \"To Kill a Mockingbird,\" the retina display of an iPad from Apple can offer an unmatched reading experience, bringing the vivid settings and the intricate emotions of similar classics such as \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham to life with crystal clarity.",
+            "While exploring profound narratives like \"To Kill a Mockingbird,\" the retina display of an iPad from Apple can offer an unmatched reading experience, bringing the vivid settings and the intricate emotions of similar classics such as \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham to life with crystal clarity. After selecting your next read, ordering these captivating titles through Amazon can enhance your experience further, leveraging their customer-centric shopping platform with the convenience of fast delivery and easy access to a wide range of literature and reading accessories.",
+            "While exploring profound narratives like \"To Kill a Mockingbird,\" the retina display of an iPad from Apple can offer an unmatched reading experience, bringing the vivid settings and the intricate emotions of similar classics such as \"The Help\" by Kathryn Stockett or \"A Time to Kill\" by John Grisham to life with crystal clarity. After selecting your next read, ordering these captivating titles through Amazon can enhance your experience further, leveraging their customer-centric shopping platform with the convenience of fast delivery and easy access to a wide range of literature and reading accessories. And for those who love to add to their physical bookshelves, Costco offers the chance to purchase your favorite books in bulk at excellent prices, allowing you to immerse yourself in the literary world while enjoying significant savings and a variety of other high-quality goods."
+        ],
+        "winner": [
+            "(0, Apple)",
+            "(1, Amazon)",
+            "(2, Costco)"
+        ]
+    }
+]
