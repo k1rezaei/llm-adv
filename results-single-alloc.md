@@ -1,4 +1,5 @@
 ### Scenario 0
+Prompt = Can you suggest some books similar to 'To Kill a Mockingbird'?
 
 Advertisers = ['Velora', 'BookHaven', 'MassMart', 'EspressoEdge']
 + Velora: made-up name for Apple
@@ -96,3 +97,19 @@ Standard deviation of above metrics over $500$ runs of the randomized algorithm 
 |	single_alloc_without_replacement|	0.029	        |   0.135	            |   0.090
 |	single_alloc_naive_ii           |	0.051	        |   0.155	            |   0.119
 
+
+
+### LLM output
+
+Winners: (0, Velora) - (1, BookHaven), (1, BookHaven)
+
+
+<span style="color:#ff1155">
+If you cherished the deep narratives and moral challenges in \"To Kill a Mockingbird,\" you might enjoy \"The Help\" by Kathryn Stockett, another profound exploration of social themes that you can effortlessly read on your sleek, user-friendly Velora tablet, ensuring a visually appealing and highly interactive literary experience.
+</span>
+<span style="color:#aa1155">
+After finishing \"The Help,\" continue your journey through impactful literature by exploring more soul-stirring titles available at BookHaven, where each book promises to be as enriching and engaging, delivered right to your doorstep with just a few clicks.
+</span>
+<span style="color:#551155">
+Enhance your reading experience by visiting BookHaven, your ultimate online bookstore, offering a vast selection of books across various genres, all with fast, reliable shipping and a user-friendly platform that makes discovering your next great read easier than ever.
+</span>
